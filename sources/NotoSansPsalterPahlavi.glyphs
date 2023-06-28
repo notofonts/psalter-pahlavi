@@ -1,8 +1,5 @@
 {
-.appVersion = "3109";
-DisplayStrings = (
-"/uni25CC"
-);
+.appVersion = "3202";
 classes = (
 {
 code = "u10BA9 u10BA9.fina u10BAA u10BAA.fina u10BAB u10BAB.fina u10BAC u10BAC.fina";
@@ -246,7 +243,7 @@ code = "sub u10B80 by u10B80.medi;\012sub u10B82 by u10B82.medi;\012sub u10B86 b
 name = medi;
 },
 {
-code = "    sub @class2 @class1' lookup SingleSubstitution7 [u10BA9 u10BAA u10BAB u10BAC];\012    sub @class4 [u10BA9 u10BAA u10BAB u10BAC]' [u10BA9 u10BAA u10BAB u10BAC] by [u10BA9.alt u10BAA.alt u10BAB.alt u10BAC.alt];\012    sub [u10BA9 u10BAA u10BAB u10BAC]' [u10BA9 u10BAA u10BAB u10BAC]  by [u10BA9.alt u10BAA.alt u10BAB.alt u10BAC.alt];";
+code = "# Rule R1: A number 1, 2, 3, or 4 that has a right join-causing character to its right\012# and a number 1, 2, 3, or 4 to its left will take the form of Xrm.\012    sub  @class2 @class1' lookup SingleSubstitution7 [u10BA9 u10BAA u10BAB u10BAC];\012# Rule R2: A number 1, 2, 3, or 4 that has no right join-causing character to its right\012# and a number 1, 2, 3 or 4 to its left will take the form of Xnm.\012    sub [u10BA9 u10BAA u10BAB u10BAC]' [u10BA9 u10BAA u10BAB u10BAC]  by [u10BA9.alt u10BAA.alt u10BAB.alt u10BAC.alt];\012";
 name = rclt;
 },
 {
