@@ -224,7 +224,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "\012sub [u10B81 u10B83 u10B81.fina u10B83.fina] [u10B89 u10B8C u10B89.fina u10B8C.fina u10B8F u10B8F.fina]' by [u10B89_alt2 u10B8C_alt2 u10B8C_alt2.fina u10B89_alt2.fina u10B8F_alt2 u10B8F_alt2.fina];\012sub [u10B8B u10B8B.medi u10B8B.init] [u10B89 u10B8C u10B89.fina u10B8C.fina]' by [u10B89_alt2 u10B8C_alt2 u10B89_alt2.fina u10B8C_alt2.fina];";
+code = "\012sub [u10B81 u10B83 u10B81.fina u10B83.fina] [u10B89 u10B8C u10B89.fina u10B8C.fina u10B8F u10B8F.fina]' by [u10B89_alt2 u10B8C_alt2 u10B8C_alt2.fina u10B89_alt2.fina u10B8F_alt2 u10B8F_alt2.fina];\012sub [u10B8B u10B8B.medi u10B8B.init] [u10B89 u10B8C u10B89.fina u10B8C.fina]' by [u10B89_alt2 u10B8C_alt2 u10B89_alt2.fina u10B8C_alt2.fina];\012\012# Drop kaf after descenders\012\012sub [u10B89 u10B8C u10B8F u10BAA u10BAB u10BAC u10BAF] u10B89' by u10B89_alt2;";
 name = calt;
 },
 {
