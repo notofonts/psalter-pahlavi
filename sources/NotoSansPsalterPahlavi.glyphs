@@ -220,7 +220,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "\012sub [beth-pp daleth-pp beth-pp.fina daleth-pp.fina] [kaph-pp nun-pp kaph-pp.fina nun-pp.fina sadhe-pp sadhe-pp.fina]' by [kaph-pp_alt2 nun-pp_alt2 kaph-pp_alt2.fina nun-pp_alt2.fina  sadhe-pp_alt2 sadhe-pp_alt2.fina];\012sub [mem-pp mem-pp.medi mem-pp.init] [kaph-pp nun-pp kaph-pp.fina nun-pp.fina]' by [kaph-pp_alt2 nun-pp_alt2 kaph-pp_alt2.fina nun-pp_alt2.fina];\012\012# Drop kaf after descenders\012\012sub [kaph-pp nun-pp sadhe-pp two-pp three-pp four-pp hundred-pp] kaph-pp' by kaph-pp_alt2;\012";
+code = "\012sub [beth-pp daleth-pp beth-pp.fina daleth-pp.fina] [kaph-pp nun-pp kaph-pp.fina nun-pp.fina sadhe-pp sadhe-pp.fina]' by [kaph-pp_alt2 nun-pp_alt2 kaph-pp_alt2.fina nun-pp_alt2.fina  sadhe-pp_alt2 sadhe-pp_alt2.fina];\012sub [mem-pp mem-pp.medi mem-pp.init] [kaph-pp nun-pp kaph-pp.fina nun-pp.fina]' by [kaph-pp_alt2 nun-pp_alt2 kaph-pp_alt2.fina nun-pp_alt2.fina];\012\012# Drop kaf after descenders\012\012sub [kaph-pp nun-pp sadhe-pp two-pp three-pp four-pp hundred-pp] kaph-pp' by kaph-pp_alt2;\012sub [kaph-pp.fina nun-pp.fina sadhe-pp.fina two-pp.fina three-pp.fina four-pp.fina] kaph-pp' by kaph-pp_alt2;\012";
 name = calt;
 },
 {
