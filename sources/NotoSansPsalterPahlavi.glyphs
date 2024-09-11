@@ -1,16 +1,16 @@
 {
-.appVersion = "3202";
+.appVersion = "3310";
 classes = (
 {
-code = "u10BA9 u10BA9.fina u10BAA u10BAA.fina u10BAB u10BAB.fina u10BAC u10BAC.fina";
+code = "one-pp one-pp.fina two-pp two-pp.fina three-pp three-pp.fina four-pp four-pp.fina";
 name = class1;
 },
 {
-code = "u10B81 u10B82.init u10B82.medi u10B83 u10B84 u10B85 u10B86.init u10B86.medi u10B87.init u10B87.medi u10B88.init u10B88.medi u10B89 u10B8A.init u10B8A.medi u10B8B.init u10B8B.medi u10B8C u10B8D.init u10B8D.medi u10B8E u10B8F u10B90.init u10B90.medi u10B91 u10BA9 u10BA9.alt u10BAA u10BAA.alt u10BAB u10BAB.alt u10BAC u10BAC.alt u10BAD.init u10BAD.medi u10BAE.init u10BAE.medi";
+code = "beth-pp gimel-pp.init gimel-pp.medi daleth-pp he-pp waw-pp zayin-pp.init zayin-pp.medi heth-pp.init heth-pp.medi yodh-pp.init yodh-pp.medi kaph-pp lamedh-pp.init lamedh-pp.medi mem-pp.init mem-pp.medi nun-pp samekh-pp.init samekh-pp.medi pe-pp sadhe-pp shin-pp.init shin-pp.medi taw-pp one-pp one-pp.alt two-pp two-pp.alt three-pp three-pp.alt four-pp four-pp.alt ten-pp.init ten-pp.medi twenty-pp.init twenty-pp.medi";
 name = class2;
 },
 {
-code = "u10B81.fina u10B82.fina u10B83.fina u10B84.fina u10B85.fina u10B86.fina u10B87.fina u10B88.fina u10B89.fina u10B8A.fina u10B8B.fina u10B8C.fina u10B8D.fina u10B8E.fina u10B8F.fina u10B90.fina u10B91.fina u10BA9.alt.fina u10BA9.fina u10BAA.alt.fina u10BAA.fina u10BAB.alt.fina u10BAB.fina u10BAC.alt.fina u10BAC.fina u10BAD.fina u10BAE.fina u10BAF";
+code = "beth-pp.fina gimel-pp.fina daleth-pp.fina he-pp.fina waw-pp.fina zayin-pp.fina heth-pp.fina yodh-pp.fina kaph-pp.fina lamedh-pp.fina mem-pp.fina nun-pp.fina samekh-pp.fina pe-pp.fina sadhe-pp.fina shin-pp.fina taw-pp.fina one-pp.alt.fina one-pp.fina two-pp.alt.fina two-pp.fina three-pp.alt.fina three-pp.fina four-pp.alt.fina four-pp.fina ten-pp.fina twenty-pp.fina hundred-pp";
 name = class4;
 }
 );
@@ -23,100 +23,100 @@ value = (
 NULL,
 CR,
 space,
-u10B80,
-u10B81,
-u10B82,
-u10B83,
-u10B84,
-u10B85,
-u10B86,
-u10B87,
-u10B88,
-u10B89,
-u10B8C,
-u10B8A,
-u10B8B,
-u10B8D,
-u10B90,
-u10B91,
-u10B8E,
-u10B8F,
-u10B99,
-u10B9A,
-u10B9C,
-u10B9B,
-u10B80.fina,
-u10B80.medi,
-u10B80.init,
-u10B81.fina,
-u10B82.fina,
-u10B82.medi,
-u10B82.init,
-u10B83.fina,
-u10B84.fina,
-u10B85.fina,
-u10B86.fina,
-u10B86.medi,
-u10B86.init,
-u10B87.medi,
-u10B87.fina,
-u10B87.init,
-u10B88.fina,
-u10B88.medi,
-u10B88.init,
+"alef-pp",
+"beth-pp",
+"gimel-pp",
+"daleth-pp",
+"he-pp",
+"waw-pp",
+"zayin-pp",
+"heth-pp",
+"yodh-pp",
+"kaph-pp",
+"nun-pp",
+"lamedh-pp",
+"mem-pp",
+"samekh-pp",
+"shin-pp",
+"taw-pp",
+"pe-pp",
+"sadhe-pp",
+"sectionmark-pp",
+"turnedsectionmark-pp",
+"fourdotscross-pp",
+"fourdotsdot-pp",
+"alef-pp.fina",
+"alef-pp.medi",
+"alef-pp.init",
+"beth-pp.fina",
+"gimel-pp.fina",
+"gimel-pp.medi",
+"gimel-pp.init",
+"daleth-pp.fina",
+"he-pp.fina",
+"waw-pp.fina",
+"zayin-pp.fina",
+"zayin-pp.medi",
+"zayin-pp.init",
+"heth-pp.medi",
+"heth-pp.fina",
+"heth-pp.init",
+"yodh-pp.fina",
+"yodh-pp.medi",
+"yodh-pp.init",
 uni0640,
-u10B89.fina,
-u10B8A.fina,
-u10B8A.medi,
-u10B8A.init,
-u10B8B.fina,
-u10B8B.medi,
-u10B8B.init,
-u10B8C.fina,
-u10B8D.fina,
-u10B8D.medi,
-u10B8D.init,
-u10B8E.fina,
-u10B8F.fina,
-u10B90.fina,
-u10B90.medi,
-u10B90.init,
-u10B91.fina,
-u10BA9.fina,
-u10BA9,
-u10BAA,
-u10BAB,
-u10BAC,
-u10BAD,
-u10BAE,
-u10BAF,
-u10BA9.alt,
-u10BA9.alt.fina,
-u10BAA.fina,
-u10BAA.alt,
-u10BAA.alt.fina,
-u10BAB.fina,
-u10BAB.alt,
-u10BAB.alt.fina,
-u10BAC.fina,
-u10BAC.alt,
-u10BAC.alt.fina,
-u10BAD.fina,
-u10BAD.medi,
-u10BAD.init,
-u10BAE.fina,
-u10BAE.medi,
-u10BAE.init,
+"kaph-pp.fina",
+"lamedh-pp.fina",
+"lamedh-pp.medi",
+"lamedh-pp.init",
+"mem-pp.fina",
+"mem-pp.medi",
+"mem-pp.init",
+"nun-pp.fina",
+"samekh-pp.fina",
+"samekh-pp.medi",
+"samekh-pp.init",
+"pe-pp.fina",
+"sadhe-pp.fina",
+"shin-pp.fina",
+"shin-pp.medi",
+"shin-pp.init",
+"taw-pp.fina",
+"one-pp.fina",
+"one-pp",
+"two-pp",
+"three-pp",
+"four-pp",
+"ten-pp",
+"twenty-pp",
+"hundred-pp",
+"one-pp.alt",
+"one-pp.alt.fina",
+"two-pp.fina",
+"two-pp.alt",
+"two-pp.alt.fina",
+"three-pp.fina",
+"three-pp.alt",
+"three-pp.alt.fina",
+"four-pp.fina",
+"four-pp.alt",
+"four-pp.alt.fina",
+"ten-pp.fina",
+"ten-pp.medi",
+"ten-pp.init",
+"twenty-pp.fina",
+"twenty-pp.medi",
+"twenty-pp.init",
 uni00A0,
 zerowidthjoiner,
 zerowidthnonjoiner,
 uni25CC,
-u10B89_alt2,
-u10B8C_alt2,
-u10B8F_alt2,
-u10B89_alt2.fina,
-u10B8C_alt2.fina,
-u10B8F_alt2.fina
+"kaph-pp_alt2",
+"nun-pp_alt2",
+"sadhe-pp_alt2",
+"kaph-pp_alt2.fina",
+"nun-pp_alt2.fina",
+"sadhe-pp_alt2.fina"
 );
 },
 {
@@ -178,35 +178,35 @@ disablesNiceNames = 1;
 familyName = "Noto Sans Psalter Pahlavi";
 featurePrefixes = (
 {
-code = "lookup SingleSubstitution5 {\012    lookupflag 0;\012    ;\012    # Original source: 4 \012    sub u10B89 by u10B89_alt2;\012    sub u10B8C by u10B8C_alt2;\012    sub u10B8F by u10B8F_alt2;\012    sub u10B89.fina by u10B89_alt2.fina;\012    sub u10B8C.fina by u10B8C_alt2.fina;\012    sub u10B8F.fina by u10B8F_alt2.fina;\012} SingleSubstitution5;\012";
+code = "lookup SingleSubstitution5 {\012    lookupflag 0;\012    ;\012    # Original source: 4 \012    sub kaph-pp by kaph-pp_alt2;\012    sub nun-pp by nun-pp_alt2;\012    sub sadhe-pp by sadhe-pp_alt2;\012    sub kaph-pp.fina by kaph-pp_alt2.fina;\012    sub nun-pp.fina by nun-pp_alt2.fina;\012    sub sadhe-pp.fina by sadhe-pp_alt2.fina;\012} SingleSubstitution5;\012";
 name = SingleSubstitution5;
 },
 {
-code = "lookup SingleSubstitution8 {\012    lookupflag 0;\012    ;\012    # Original source: 7 \012    sub u10BA9 by u10BA9.alt;\012    sub u10BAA by u10BAA.alt;\012    sub u10BAB by u10BAB.alt;\012    sub u10BAC by u10BAC.alt;\012} SingleSubstitution8;\012";
+code = "lookup SingleSubstitution8 {\012    lookupflag 0;\012    ;\012    # Original source: 7 \012    sub one-pp by one-pp.alt;\012    sub two-pp by two-pp.alt;\012    sub three-pp by three-pp.alt;\012    sub four-pp by four-pp.alt;\012} SingleSubstitution8;\012";
 name = SingleSubstitution8;
 },
 {
-code = "lookup SingleSubstitution7 {\012    lookupflag 0;\012    ;\012    # Original source: 6 \012    sub u10BA9.fina by u10BA9.alt.fina;\012    sub u10BA9 by u10BA9.alt.fina;\012    sub u10BAA by u10BAA.alt.fina;\012    sub u10BAB by u10BAB.alt.fina;\012    sub u10BAC by u10BAC.alt.fina;\012    sub u10BAA.fina by u10BAA.alt.fina;\012    sub u10BAB.fina by u10BAB.alt.fina;\012    sub u10BAC.fina by u10BAC.alt.fina;\012} SingleSubstitution7;\012";
+code = "lookup SingleSubstitution7 {\012    lookupflag 0;\012    ;\012    # Original source: 6 \012    sub one-pp.fina by one-pp.alt.fina;\012    sub one-pp by one-pp.alt.fina;\012    sub two-pp by two-pp.alt.fina;\012    sub three-pp by three-pp.alt.fina;\012    sub four-pp by four-pp.alt.fina;\012    sub two-pp.fina by two-pp.alt.fina;\012    sub three-pp.fina by three-pp.alt.fina;\012    sub four-pp.fina by four-pp.alt.fina;\012} SingleSubstitution7;\012";
 name = SingleSubstitution7;
 },
 {
-code = "lookup SinglePositioning3 {\012    lookupflag 0;\012    ;\012    # Original source: 2 \012    pos u10B84 <0 75 -310 0>;\012    pos u10B85 <50 75 0 0>;\012    pos u10B89_alt2 -150;\012} SinglePositioning3;\012";
+code = "lookup SinglePositioning3 {\012    lookupflag 0;\012    ;\012    # Original source: 2 \012    pos he-pp <0 75 -310 0>;\012    pos waw-pp <50 75 0 0>;\012    pos kaph-pp_alt2 -150;\012} SinglePositioning3;\012";
 name = SinglePositioning3;
 },
 {
-code = "lookup SinglePositioning2 {\012    pos u10B81 140;\012    pos u10B83 140;\012    pos u10B8B 190;\012    pos u10B8B.init 190;\012    pos u10B89_alt2 -100;\012} SinglePositioning2;\012";
+code = "lookup SinglePositioning2 {\012    pos beth-pp 140;\012    pos daleth-pp 140;\012    pos mem-pp 190;\012    pos mem-pp.init 190;\012    pos kaph-pp_alt2 -100;\012} SinglePositioning2;\012";
 name = SinglePositioning2;
 },
 {
-code = "lookup SinglePositioning4 {\012    pos u10B81 60;\012    pos u10B83 60;\012    pos u10B84 -275;\012    pos u10B85 -150;\012    pos u10B8B 100;\012    pos u10B8B.init 100;\012} SinglePositioning4;\012";
+code = "lookup SinglePositioning4 {\012    pos beth-pp 60;\012    pos daleth-pp 60;\012    pos he-pp -275;\012    pos waw-pp -150;\012    pos mem-pp 100;\012    pos mem-pp.init 100;\012} SinglePositioning4;\012";
 name = SinglePositioning4;
 },
 {
-code = "lookup SinglePositioning5 {\012    pos u10B84 <0 75 -275 0>;\012    pos u10B85 <50 75 -100 0>;\012} SinglePositioning5;\012";
+code = "lookup SinglePositioning5 {\012    pos he-pp <0 75 -275 0>;\012    pos waw-pp <50 75 -100 0>;\012} SinglePositioning5;\012";
 name = SinglePositioning5;
 },
 {
-code = "lookup SinglePositioning6 {\012    pos u10B84 -360;\012    pos u10B85 -50;\012    pos u10B89_alt2 -150;\012} SinglePositioning6;\012";
+code = "lookup SinglePositioning6 {\012    pos he-pp -360;\012    pos waw-pp -50;\012    pos kaph-pp_alt2 -150;\012} SinglePositioning6;\012";
 name = SinglePositioning6;
 },
 {
@@ -220,30 +220,30 @@ name = Languagesystems;
 );
 features = (
 {
-code = "\012sub [u10B81 u10B83 u10B81.fina u10B83.fina] [u10B89 u10B8C u10B89.fina u10B8C.fina u10B8F u10B8F.fina]' by [u10B89_alt2 u10B8C_alt2 u10B8C_alt2.fina u10B89_alt2.fina u10B8F_alt2 u10B8F_alt2.fina];\012sub [u10B8B u10B8B.medi u10B8B.init] [u10B89 u10B8C u10B89.fina u10B8C.fina]' by [u10B89_alt2 u10B8C_alt2 u10B89_alt2.fina u10B8C_alt2.fina];\012\012# Drop kaf after descenders\012\012sub [u10B89 u10B8C u10B8F u10BAA u10BAB u10BAC u10BAF] u10B89' by u10B89_alt2;";
+code = "\012sub [beth-pp daleth-pp beth-pp.fina daleth-pp.fina] [kaph-pp nun-pp kaph-pp.fina nun-pp.fina sadhe-pp sadhe-pp.fina]' by [kaph-pp_alt2 nun-pp_alt2 kaph-pp_alt2.fina nun-pp_alt2.fina  sadhe-pp_alt2 sadhe-pp_alt2.fina];\012sub [mem-pp mem-pp.medi mem-pp.init] [kaph-pp nun-pp kaph-pp.fina nun-pp.fina]' by [kaph-pp_alt2 nun-pp_alt2 kaph-pp_alt2.fina nun-pp_alt2.fina];\012\012# Drop kaf after descenders\012\012sub [kaph-pp nun-pp sadhe-pp two-pp three-pp four-pp hundred-pp] kaph-pp' by kaph-pp_alt2;\012";
 name = calt;
 },
 {
 automatic = 1;
-code = "sub u10B80 by u10B80.fina;\012sub u10B81 by u10B81.fina;\012sub u10B82 by u10B82.fina;\012sub u10B83 by u10B83.fina;\012sub u10B84 by u10B84.fina;\012sub u10B85 by u10B85.fina;\012sub u10B86 by u10B86.fina;\012sub u10B87 by u10B87.fina;\012sub u10B88 by u10B88.fina;\012sub u10B89 by u10B89.fina;\012sub u10B8A by u10B8A.fina;\012sub u10B8B by u10B8B.fina;\012sub u10B8C by u10B8C.fina;\012sub u10B8D by u10B8D.fina;\012sub u10B8E by u10B8E.fina;\012sub u10B8F by u10B8F.fina;\012sub u10B90 by u10B90.fina;\012sub u10B91 by u10B91.fina;\012sub u10BA9 by u10BA9.fina;\012sub u10BA9.alt by u10BA9.alt.fina;\012sub u10BAA by u10BAA.fina;\012sub u10BAA.alt by u10BAA.alt.fina;\012sub u10BAB by u10BAB.fina;\012sub u10BAB.alt by u10BAB.alt.fina;\012sub u10BAC by u10BAC.fina;\012sub u10BAC.alt by u10BAC.alt.fina;\012sub u10BAD by u10BAD.fina;\012sub u10BAE by u10BAE.fina;\012sub u10B89_alt2 by u10B89_alt2.fina;\012sub u10B8C_alt2 by u10B8C_alt2.fina;\012sub u10B8F_alt2 by u10B8F_alt2.fina;\012";
+code = "sub alef-pp by alef-pp.fina;\012sub beth-pp by beth-pp.fina;\012sub gimel-pp by gimel-pp.fina;\012sub daleth-pp by daleth-pp.fina;\012sub he-pp by he-pp.fina;\012sub waw-pp by waw-pp.fina;\012sub zayin-pp by zayin-pp.fina;\012sub heth-pp by heth-pp.fina;\012sub yodh-pp by yodh-pp.fina;\012sub kaph-pp by kaph-pp.fina;\012sub lamedh-pp by lamedh-pp.fina;\012sub mem-pp by mem-pp.fina;\012sub nun-pp by nun-pp.fina;\012sub samekh-pp by samekh-pp.fina;\012sub pe-pp by pe-pp.fina;\012sub sadhe-pp by sadhe-pp.fina;\012sub shin-pp by shin-pp.fina;\012sub taw-pp by taw-pp.fina;\012sub one-pp by one-pp.fina;\012sub one-pp.alt by one-pp.alt.fina;\012sub two-pp by two-pp.fina;\012sub two-pp.alt by two-pp.alt.fina;\012sub three-pp by three-pp.fina;\012sub three-pp.alt by three-pp.alt.fina;\012sub four-pp by four-pp.fina;\012sub four-pp.alt by four-pp.alt.fina;\012sub ten-pp by ten-pp.fina;\012sub twenty-pp by twenty-pp.fina;\012sub kaph-pp_alt2 by kaph-pp_alt2.fina;\012sub nun-pp_alt2 by nun-pp_alt2.fina;\012sub sadhe-pp_alt2 by sadhe-pp_alt2.fina;\012";
 name = fina;
 },
 {
 automatic = 1;
-code = "sub u10B80 by u10B80.init;\012sub u10B82 by u10B82.init;\012sub u10B86 by u10B86.init;\012sub u10B87 by u10B87.init;\012sub u10B88 by u10B88.init;\012sub u10B8A by u10B8A.init;\012sub u10B8B by u10B8B.init;\012sub u10B8D by u10B8D.init;\012sub u10B90 by u10B90.init;\012sub u10BAD by u10BAD.init;\012sub u10BAE by u10BAE.init;\012";
+code = "sub alef-pp by alef-pp.init;\012sub gimel-pp by gimel-pp.init;\012sub zayin-pp by zayin-pp.init;\012sub heth-pp by heth-pp.init;\012sub yodh-pp by yodh-pp.init;\012sub lamedh-pp by lamedh-pp.init;\012sub mem-pp by mem-pp.init;\012sub samekh-pp by samekh-pp.init;\012sub shin-pp by shin-pp.init;\012sub ten-pp by ten-pp.init;\012sub twenty-pp by twenty-pp.init;\012";
 name = init;
 },
 {
 automatic = 1;
-code = "sub u10B80 by u10B80.medi;\012sub u10B82 by u10B82.medi;\012sub u10B86 by u10B86.medi;\012sub u10B87 by u10B87.medi;\012sub u10B88 by u10B88.medi;\012sub u10B8A by u10B8A.medi;\012sub u10B8B by u10B8B.medi;\012sub u10B8D by u10B8D.medi;\012sub u10B90 by u10B90.medi;\012sub u10BAD by u10BAD.medi;\012sub u10BAE by u10BAE.medi;\012";
+code = "sub alef-pp by alef-pp.medi;\012sub gimel-pp by gimel-pp.medi;\012sub zayin-pp by zayin-pp.medi;\012sub heth-pp by heth-pp.medi;\012sub yodh-pp by yodh-pp.medi;\012sub lamedh-pp by lamedh-pp.medi;\012sub mem-pp by mem-pp.medi;\012sub samekh-pp by samekh-pp.medi;\012sub shin-pp by shin-pp.medi;\012sub ten-pp by ten-pp.medi;\012sub twenty-pp by twenty-pp.medi;\012";
 name = medi;
 },
 {
-code = "# Rule R1: A number 1, 2, 3, or 4 that has a right join-causing character to its right\012# and a number 1, 2, 3, or 4 to its left will take the form of Xrm.\012    sub  @class2 @class1' lookup SingleSubstitution7 [u10BA9 u10BAA u10BAB u10BAC];\012# Rule R2: A number 1, 2, 3, or 4 that has no right join-causing character to its right\012# and a number 1, 2, 3 or 4 to its left will take the form of Xnm.\012    sub [u10BA9 u10BAA u10BAB u10BAC]' [u10BA9 u10BAA u10BAB u10BAC]  by [u10BA9.alt u10BAA.alt u10BAB.alt u10BAC.alt];\012";
+code = "# Rule R1: A number 1, 2, 3, or 4 that has a right join-causing character to its right\012# and a number 1, 2, 3, or 4 to its left will take the form of Xrm.\012    sub  @class2 @class1' lookup SingleSubstitution7 [one-pp two-pp three-pp four-pp];\012# Rule R2: A number 1, 2, 3, or 4 that has no right join-causing character to its right\012# and a number 1, 2, 3 or 4 to its left will take the form of Xnm.\012    sub [one-pp two-pp three-pp four-pp]' [one-pp two-pp three-pp four-pp]  by [one-pp.alt two-pp.alt three-pp.alt four-pp.alt];\012";
 name = rclt;
 },
 {
-code = "# Automatic Code Start\012pos uni00A0 1; # Seriously?\012pos u10B81 [u10B81 u10B83 u10B8B u10B8B.init]' lookup SinglePositioning2;\012pos u10B81.fina [u10B81 u10B83 u10B8B u10B8B.init]' lookup SinglePositioning2;\012pos u10B83 [u10B81 u10B83 u10B8B u10B8B.init]' lookup SinglePositioning4;\012pos u10B83.fina [u10B81 u10B83 u10B8B u10B8B.init]' lookup SinglePositioning4;\012pos u10B81 [u10B84 u10B85]' lookup SinglePositioning3;\012pos u10B81.fina [u10B84 u10B85]' lookup SinglePositioning6;\012pos u10B83 [u10B84 u10B85]' lookup SinglePositioning5;\012pos u10B83.fina [u10B84 u10B85]' lookup SinglePositioning4;\012pos u10B81 u10B89_alt2' lookup SinglePositioning2;\012pos u10B81.fina u10B89_alt2' lookup SinglePositioning2;\012pos u10B83 u10B89_alt2' lookup SinglePositioning3;\012pos u10B83.fina u10B89_alt2' lookup SinglePositioning3;\012pos u10B89 <NULL> u10B8C 80;\012pos u10B8C <NULL> u10B8C 60;\012pos u10B8F <NULL> u10B8C 80;\012pos u10B89.fina <NULL> u10B8C 60;\012pos u10B8C.fina <NULL> u10B8C 80;\012pos u10B8F.fina <NULL> u10B8C 80;\012";
+code = "# Automatic Code Start\012pos uni00A0 1; # Seriously?\012pos beth-pp [beth-pp daleth-pp mem-pp mem-pp.init]' lookup SinglePositioning2;\012pos beth-pp.fina [beth-pp daleth-pp mem-pp mem-pp.init]' lookup SinglePositioning2;\012pos daleth-pp [beth-pp daleth-pp mem-pp mem-pp.init]' lookup SinglePositioning4;\012pos daleth-pp.fina [beth-pp daleth-pp mem-pp mem-pp.init]' lookup SinglePositioning4;\012pos beth-pp [he-pp waw-pp]' lookup SinglePositioning3;\012pos beth-pp.fina [he-pp waw-pp]' lookup SinglePositioning6;\012pos daleth-pp [he-pp waw-pp]' lookup SinglePositioning5;\012pos daleth-pp.fina [he-pp waw-pp]' lookup SinglePositioning4;\012pos beth-pp kaph-pp_alt2' lookup SinglePositioning2;\012pos beth-pp.fina kaph-pp_alt2' lookup SinglePositioning2;\012pos daleth-pp kaph-pp_alt2' lookup SinglePositioning3;\012pos daleth-pp.fina kaph-pp_alt2' lookup SinglePositioning3;\012pos kaph-pp <NULL> nun-pp 80;\012pos nun-pp <NULL> nun-pp 60;\012pos sadhe-pp <NULL> nun-pp 80;\012pos kaph-pp.fina <NULL> nun-pp 60;\012pos nun-pp.fina <NULL> nun-pp 80;\012pos sadhe-pp.fina <NULL> nun-pp 80;\012";
 name = kern;
 }
 );
@@ -381,7 +381,7 @@ unicode = 0020;
 category = Separator;
 },
 {
-glyphname = u10B80;
+glyphname = "alef-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -473,7 +473,7 @@ unicode = 10B80;
 category = Letter;
 },
 {
-glyphname = u10B81;
+glyphname = "beth-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -531,7 +531,7 @@ unicode = 10B81;
 category = Letter;
 },
 {
-glyphname = u10B82;
+glyphname = "gimel-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -592,7 +592,7 @@ unicode = 10B82;
 category = Letter;
 },
 {
-glyphname = u10B83;
+glyphname = "daleth-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -656,7 +656,7 @@ unicode = 10B83;
 category = Letter;
 },
 {
-glyphname = u10B84;
+glyphname = "he-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -728,7 +728,7 @@ unicode = 10B84;
 category = Letter;
 },
 {
-glyphname = u10B85;
+glyphname = "waw-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -773,7 +773,7 @@ unicode = 10B85;
 category = Letter;
 },
 {
-glyphname = u10B86;
+glyphname = "zayin-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -840,7 +840,7 @@ unicode = 10B86;
 category = Letter;
 },
 {
-glyphname = u10B87;
+glyphname = "heth-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -917,7 +917,7 @@ unicode = 10B87;
 category = Letter;
 },
 {
-glyphname = u10B88;
+glyphname = "yodh-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -970,7 +970,7 @@ unicode = 10B88;
 category = Letter;
 },
 {
-glyphname = u10B89;
+glyphname = "kaph-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -1060,7 +1060,7 @@ unicode = 10B89;
 category = Letter;
 },
 {
-glyphname = u10B8C;
+glyphname = "nun-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -1113,7 +1113,7 @@ unicode = 10B8C;
 category = Letter;
 },
 {
-glyphname = u10B8A;
+glyphname = "lamedh-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -1186,7 +1186,7 @@ unicode = 10B8A;
 category = Letter;
 },
 {
-glyphname = u10B8B;
+glyphname = "mem-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -1261,7 +1261,7 @@ unicode = 10B8B;
 category = Letter;
 },
 {
-glyphname = u10B8D;
+glyphname = "samekh-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -1346,7 +1346,7 @@ unicode = 10B8D;
 category = Letter;
 },
 {
-glyphname = u10B90;
+glyphname = "shin-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -1474,7 +1474,7 @@ unicode = 10B90;
 category = Letter;
 },
 {
-glyphname = u10B91;
+glyphname = "taw-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -1554,7 +1554,7 @@ unicode = 10B91;
 category = Letter;
 },
 {
-glyphname = u10B8E;
+glyphname = "pe-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -1618,7 +1618,7 @@ unicode = 10B8E;
 category = Letter;
 },
 {
-glyphname = u10B8F;
+glyphname = "sadhe-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -1706,7 +1706,7 @@ unicode = 10B8F;
 category = Letter;
 },
 {
-glyphname = u10B99;
+glyphname = "sectionmark-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -1822,7 +1822,7 @@ unicode = 10B99;
 category = Letter;
 },
 {
-glyphname = u10B9A;
+glyphname = "turnedsectionmark-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -1938,7 +1938,7 @@ unicode = 10B9A;
 category = Letter;
 },
 {
-glyphname = u10B9C;
+glyphname = "fourdotscross-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -2105,7 +2105,7 @@ unicode = 10B9C;
 category = Letter;
 },
 {
-glyphname = u10B9B;
+glyphname = "fourdotsdot-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -2272,7 +2272,7 @@ unicode = 10B9B;
 category = Letter;
 },
 {
-glyphname = u10B80.fina;
+glyphname = "alef-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -2369,7 +2369,7 @@ width = 655;
 category = Letter;
 },
 {
-glyphname = u10B80.medi;
+glyphname = "alef-pp.medi";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -2462,7 +2462,7 @@ width = 630;
 category = Letter;
 },
 {
-glyphname = u10B80.init;
+glyphname = "alef-pp.init";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -2567,7 +2567,7 @@ width = 608;
 category = Letter;
 },
 {
-glyphname = u10B81.fina;
+glyphname = "beth-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -2638,7 +2638,7 @@ width = 849;
 category = Letter;
 },
 {
-glyphname = u10B82.fina;
+glyphname = "gimel-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -2712,7 +2712,7 @@ width = 483;
 category = Letter;
 },
 {
-glyphname = u10B82.medi;
+glyphname = "gimel-pp.medi";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -2774,7 +2774,7 @@ width = 448;
 category = Letter;
 },
 {
-glyphname = u10B82.init;
+glyphname = "gimel-pp.init";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -2824,7 +2824,7 @@ width = 341;
 category = Letter;
 },
 {
-glyphname = u10B83.fina;
+glyphname = "daleth-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -2901,7 +2901,7 @@ width = 692;
 category = Letter;
 },
 {
-glyphname = u10B84.fina;
+glyphname = "he-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -2986,7 +2986,7 @@ width = 617;
 category = Letter;
 },
 {
-glyphname = u10B85.fina;
+glyphname = "waw-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -3030,7 +3030,7 @@ width = 287;
 category = Letter;
 },
 {
-glyphname = u10B86.fina;
+glyphname = "zayin-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -3098,7 +3098,7 @@ width = 403;
 category = Letter;
 },
 {
-glyphname = u10B86.medi;
+glyphname = "zayin-pp.medi";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -3155,7 +3155,7 @@ width = 379;
 category = Letter;
 },
 {
-glyphname = u10B86.init;
+glyphname = "zayin-pp.init";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -3212,7 +3212,7 @@ width = 403;
 category = Letter;
 },
 {
-glyphname = u10B87.medi;
+glyphname = "heth-pp.medi";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -3316,7 +3316,7 @@ width = 712;
 category = Letter;
 },
 {
-glyphname = u10B87.fina;
+glyphname = "heth-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -3406,7 +3406,7 @@ width = 746;
 category = Letter;
 },
 {
-glyphname = u10B87.init;
+glyphname = "heth-pp.init";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -3496,7 +3496,7 @@ width = 717;
 category = Letter;
 },
 {
-glyphname = u10B88.fina;
+glyphname = "yodh-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -3549,7 +3549,7 @@ width = 536;
 category = Letter;
 },
 {
-glyphname = u10B88.medi;
+glyphname = "yodh-pp.medi";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -3622,7 +3622,7 @@ width = 421;
 category = Letter;
 },
 {
-glyphname = u10B88.init;
+glyphname = "yodh-pp.init";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -3705,7 +3705,7 @@ unicode = 0640;
 category = Letter;
 },
 {
-glyphname = u10B89.fina;
+glyphname = "kaph-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -3808,7 +3808,7 @@ width = 366;
 category = Letter;
 },
 {
-glyphname = u10B8A.fina;
+glyphname = "lamedh-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -3894,7 +3894,7 @@ width = 544;
 category = Letter;
 },
 {
-glyphname = u10B8A.medi;
+glyphname = "lamedh-pp.medi";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -3964,7 +3964,7 @@ width = 370;
 category = Letter;
 },
 {
-glyphname = u10B8A.init;
+glyphname = "lamedh-pp.init";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -4020,7 +4020,7 @@ width = 343;
 category = Letter;
 },
 {
-glyphname = u10B8B.fina;
+glyphname = "mem-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -4108,7 +4108,7 @@ width = 530;
 category = Letter;
 },
 {
-glyphname = u10B8B.medi;
+glyphname = "mem-pp.medi";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -4210,7 +4210,7 @@ width = 530;
 category = Letter;
 },
 {
-glyphname = u10B8B.init;
+glyphname = "mem-pp.init";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -4298,7 +4298,7 @@ width = 564;
 category = Letter;
 },
 {
-glyphname = u10B8C.fina;
+glyphname = "nun-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -4364,7 +4364,7 @@ width = 324;
 category = Letter;
 },
 {
-glyphname = u10B8D.fina;
+glyphname = "samekh-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -4462,7 +4462,7 @@ width = 766;
 category = Letter;
 },
 {
-glyphname = u10B8D.medi;
+glyphname = "samekh-pp.medi";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -4574,7 +4574,7 @@ width = 727;
 category = Letter;
 },
 {
-glyphname = u10B8D.init;
+glyphname = "samekh-pp.init";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -4672,7 +4672,7 @@ width = 756;
 category = Letter;
 },
 {
-glyphname = u10B8E.fina;
+glyphname = "pe-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -4758,7 +4758,7 @@ width = 583;
 category = Letter;
 },
 {
-glyphname = u10B8F.fina;
+glyphname = "sadhe-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -4859,7 +4859,7 @@ width = 645;
 category = Letter;
 },
 {
-glyphname = u10B90.fina;
+glyphname = "shin-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -4980,7 +4980,7 @@ width = 890;
 category = Letter;
 },
 {
-glyphname = u10B90.medi;
+glyphname = "shin-pp.medi";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -5091,7 +5091,7 @@ width = 847;
 category = Letter;
 },
 {
-glyphname = u10B90.init;
+glyphname = "shin-pp.init";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -5232,7 +5232,7 @@ width = 1016;
 category = Letter;
 },
 {
-glyphname = u10B91.fina;
+glyphname = "taw-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -5325,7 +5325,7 @@ width = 710;
 category = Letter;
 },
 {
-glyphname = u10BA9.fina;
+glyphname = "one-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -5372,7 +5372,7 @@ width = 321;
 category = Letter;
 },
 {
-glyphname = u10BA9;
+glyphname = "one-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -5416,7 +5416,7 @@ unicode = 10BA9;
 category = Letter;
 },
 {
-glyphname = u10BAA;
+glyphname = "two-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -5475,7 +5475,7 @@ unicode = 10BAA;
 category = Letter;
 },
 {
-glyphname = u10BAB;
+glyphname = "three-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -5552,7 +5552,7 @@ unicode = 10BAB;
 category = Letter;
 },
 {
-glyphname = u10BAC;
+glyphname = "four-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -5647,7 +5647,7 @@ unicode = 10BAC;
 category = Letter;
 },
 {
-glyphname = u10BAD;
+glyphname = "ten-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -5722,7 +5722,7 @@ unicode = 10BAD;
 category = Letter;
 },
 {
-glyphname = u10BAE;
+glyphname = "twenty-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -5783,7 +5783,7 @@ unicode = 10BAE;
 category = Letter;
 },
 {
-glyphname = u10BAF;
+glyphname = "hundred-pp";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -5933,13 +5933,13 @@ unicode = 10BAF;
 category = Letter;
 },
 {
-glyphname = u10BA9.alt;
+glyphname = "one-pp.alt";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
 components = (
 {
-name = u10BA9;
+name = "one-pp";
 }
 );
 layerId = UUID0;
@@ -5949,7 +5949,7 @@ width = 340;
 category = Letter;
 },
 {
-glyphname = u10BA9.alt.fina;
+glyphname = "one-pp.alt.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -6006,7 +6006,7 @@ width = 340;
 category = Letter;
 },
 {
-glyphname = u10BAA.fina;
+glyphname = "two-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -6078,7 +6078,7 @@ width = 627;
 category = Letter;
 },
 {
-glyphname = u10BAA.alt;
+glyphname = "two-pp.alt";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -6139,7 +6139,7 @@ width = 656;
 category = Letter;
 },
 {
-glyphname = u10BAA.alt.fina;
+glyphname = "two-pp.alt.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -6214,7 +6214,7 @@ width = 656;
 category = Letter;
 },
 {
-glyphname = u10BAB.fina;
+glyphname = "three-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -6304,7 +6304,7 @@ width = 910;
 category = Letter;
 },
 {
-glyphname = u10BAB.alt;
+glyphname = "three-pp.alt";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -6383,7 +6383,7 @@ width = 939;
 category = Letter;
 },
 {
-glyphname = u10BAB.alt.fina;
+glyphname = "three-pp.alt.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -6476,7 +6476,7 @@ width = 939;
 category = Letter;
 },
 {
-glyphname = u10BAC.fina;
+glyphname = "four-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -6584,7 +6584,7 @@ width = 1130;
 category = Letter;
 },
 {
-glyphname = u10BAC.alt;
+glyphname = "four-pp.alt";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -6681,7 +6681,7 @@ width = 1159;
 category = Letter;
 },
 {
-glyphname = u10BAC.alt.fina;
+glyphname = "four-pp.alt.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -6792,7 +6792,7 @@ width = 1159;
 category = Letter;
 },
 {
-glyphname = u10BAD.fina;
+glyphname = "ten-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -6880,7 +6880,7 @@ width = 601;
 category = Letter;
 },
 {
-glyphname = u10BAD.medi;
+glyphname = "ten-pp.medi";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -6982,7 +6982,7 @@ width = 567;
 category = Letter;
 },
 {
-glyphname = u10BAD.init;
+glyphname = "ten-pp.init";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -7070,7 +7070,7 @@ width = 567;
 category = Letter;
 },
 {
-glyphname = u10BAE.fina;
+glyphname = "twenty-pp.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -7144,7 +7144,7 @@ width = 601;
 category = Letter;
 },
 {
-glyphname = u10BAE.medi;
+glyphname = "twenty-pp.medi";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -7232,7 +7232,7 @@ width = 567;
 category = Letter;
 },
 {
-glyphname = u10BAE.init;
+glyphname = "twenty-pp.init";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -7641,7 +7641,7 @@ unicode = 25CC;
 category = Letter;
 },
 {
-glyphname = u10B89_alt2;
+glyphname = "kaph-pp_alt2";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -7730,7 +7730,7 @@ width = 800;
 category = Letter;
 },
 {
-glyphname = u10B8C_alt2;
+glyphname = "nun-pp_alt2";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -7782,7 +7782,7 @@ width = 576;
 category = Letter;
 },
 {
-glyphname = u10B8F_alt2;
+glyphname = "sadhe-pp_alt2";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -7869,7 +7869,7 @@ width = 645;
 category = Letter;
 },
 {
-glyphname = u10B89_alt2.fina;
+glyphname = "kaph-pp_alt2.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -7972,7 +7972,7 @@ width = 366;
 category = Letter;
 },
 {
-glyphname = u10B8C_alt2.fina;
+glyphname = "nun-pp_alt2.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
@@ -8038,7 +8038,7 @@ width = 324;
 category = Letter;
 },
 {
-glyphname = u10B8F_alt2.fina;
+glyphname = "sadhe-pp_alt2.fina";
 lastChange = "2018-04-03 13:12:53 +0000";
 layers = (
 {
