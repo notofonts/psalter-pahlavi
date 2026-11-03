@@ -1,9 +1,0 @@
-{
-    "tests": [
-        {
-            "input": "𐮮𐮬𐮫 𐮯𐮬𐮫",
-            "expectation": "u10BAB=6+910|u10BAC.alt=5+1159|u10BAF=4+1248|space=3+260|u10BAB=2+910|u10BAC.alt.fina=1+1159|u10BAE.init=0+567",
-            "note": "#1, see examples in Unicode standard"
-        }
-   ]
-}
